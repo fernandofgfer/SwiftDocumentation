@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "af57aabc2ee21aaa66e7ec924ab97e0b"
+build_time: [540475699, 370618000]
+inputs:
+  "/Users/Fernando/Proyectos/PatronesDocumentacionSwift/SwiftDocumentation/SwiftDocumentation/ViewController.swift": [9223372036854775807, 0]
+  "/Users/Fernando/Proyectos/PatronesDocumentacionSwift/SwiftDocumentation/SwiftDocumentation/AppDelegate.swift": [9223372036854775807, 0]
